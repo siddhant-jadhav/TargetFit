@@ -100,8 +100,7 @@ flutter run -t lib/FitTarget.dart
 project2/
 ├── lib/
 │   ├── FitTarget.dart       # Main FitTarget Application & UI views
-│   └── main.dart            # App entry point
-├── screenshots/             # 📸 Place your app screenshots here
+├── screenshots/            
 │   ├── home.png
 │   ├── schedule.png
 │   ├── history.png
