@@ -11,19 +11,19 @@
     <tr>
       <td align="center" width="25%">
         <b>🏠 Home Screen</b><br/><br/>
-        <img src="screenshots/home.png" alt="Home Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/home.jpeg" alt="Home Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
       </td>
       <td align="center" width="25%">
         <b>📅 Schedule Screen</b><br/><br/>
-        <img src="screenshots/schedule.png" alt="Schedule Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/schedule.jpeg" alt="Schedule Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
       </td>
       <td align="center" width="25%">
         <b>📜 History Screen</b><br/><br/>
-        <img src="screenshots/history.png" alt="History Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/history.jpeg" alt="History Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
       </td>
       <td align="center" width="25%">
         <b>👤 Profile Screen</b><br/><br/>
-        <img src="screenshots/profile.png" alt="Profile Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/profile.jpeg" alt="Profile Screen" width="240" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
       </td>
     </tr>
   </table>
